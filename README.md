@@ -1,6 +1,6 @@
-# frida-itrace
+# ainakan-itrace
 
-Instruction tracer powered by Frida.
+Instruction tracer powered by Ainakan.
 
 ## Example
 
@@ -10,7 +10,7 @@ import {
     TraceBufferReader,
     TraceSession,
     TraceStrategy,
-} from "frida-itrace";
+} from "ainakan-itrace";
 
 const strategy: TraceStrategy = {
     type: "thread",

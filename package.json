@@ -1,9 +1,9 @@
 {
-  "name": "frida-itrace",
-  "description": "Instruction tracer powered by Frida",
+  "name": "ainakan-itrace",
+  "description": "Instruction tracer powered by Ainakan",
   "version": "4.0.1",
   "keywords": [
-    "frida-gum"
+    "ainakan-gum"
   ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -19,13 +19,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frida/frida-itrace.git"
+    "url": "git+https://github.com/ainakan/ainakan-itrace.git"
   },
   "authors": [
-    "Frida Developers"
+    "Ainakan Developers"
   ],
   "devDependencies": {
-    "@types/frida-gum": "^19.0.0",
+    "@types/ainakan-gum": "^19.0.0",
     "@types/node": "^18.19.111",
     "typescript": "^5.8.3"
   },
